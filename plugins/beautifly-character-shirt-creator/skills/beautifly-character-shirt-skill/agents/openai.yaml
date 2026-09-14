@@ -1,0 +1,10 @@
+interface:
+  display_name: Beautifly Character Shirt Skill
+  short_description: Create layered 7:8 entertainment T-shirt art
+  default_prompt: Use $beautifly-character-shirt-skill to create five layered 7:8
+    T-shirt design concepts from my movie or TV idea.
+  icon_small: assets/beautifly-icon-512.png
+  icon_large: assets/beautifly-logo-1024.png
+  brand_color: '#9F1BB3'
+policy:
+  allow_implicit_invocation: true

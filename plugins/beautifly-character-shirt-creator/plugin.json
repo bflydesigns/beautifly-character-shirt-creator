@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "beautifly-character-shirt-creator",
+  "version": "1.0.0",
+  "description": "Create premium layered 7:8 character T-shirt designs from original concepts, entertainment inspiration, and uploaded reference photos."
+}
