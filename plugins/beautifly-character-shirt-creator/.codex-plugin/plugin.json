@@ -1,0 +1,36 @@
+{
+  "name": "beautifly-character-shirt-creator",
+  "version": "1.0.0",
+  "description": "Create premium layered 7:8 character T-shirt designs from original concepts, entertainment inspiration, and uploaded reference photos.",
+  "author": {
+    "name": "Beautifly Designs",
+    "url": "https://www.beautiflypros.com"
+  },
+  "homepage": "https://www.beautiflypros.com",
+  "keywords": [
+    "t-shirt design",
+    "character illustration",
+    "caricature",
+    "apparel graphics",
+    "DTF",
+    "Beautifly Designs"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Beautifly Character Shirt Creator",
+    "shortDescription": "Create layered 7:8 character shirt designs.",
+    "longDescription": "Create five separate premium, layered, print-ready 7:8 T-shirt design variations from original ideas, entertainment inspiration, or uploaded reference photos. Preserve recognizable identity while converting photo subjects into expressive semi-realistic editorial caricatures with glossy airbrushed illustration, vibrant typography, and DTF-friendly production quality.",
+    "developerName": "Beautifly Designs",
+    "category": "Productivity",
+    "capabilities": [],
+    "websiteURL": "https://www.beautiflypros.com",
+    "defaultPrompt": [
+      "Create five layered 7:8 character shirt designs.",
+      "Turn my uploaded photo into illustrated shirt art.",
+      "Create a nostalgic movie-inspired T-shirt design."
+    ],
+    "brandColor": "#9F1BB3",
+    "composerIcon": "./assets/beautifly-icon-512.png",
+    "logo": "./assets/beautifly-logo-1024.png"
+  }
+}
