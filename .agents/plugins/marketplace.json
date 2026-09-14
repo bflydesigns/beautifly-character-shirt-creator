@@ -1,0 +1,20 @@
+{
+  "name": "beautifly-designs",
+  "interface": {
+    "displayName": "Beautifly Designs"
+  },
+  "plugins": [
+    {
+      "name": "beautifly-character-shirt-creator",
+      "source": {
+        "source": "local",
+        "path": "./plugins/beautifly-character-shirt-creator"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}
